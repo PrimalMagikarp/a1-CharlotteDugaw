@@ -1,4 +1,20 @@
 
-      body { background-color:black }
-      * { color:pink}
-    
+      body { background-color:#000000 }
+      p { color:#FFA5C6}
+      p.pride { animation: prideshift 5s infinite;}
+      @keyframes prideshift {
+        0% {color: #A6EEFF}
+        25% {color: #FFA5C6}
+        50% {color: white}
+        75% {color: #FFA5C6}
+        100% {color: #A6EEFF}
+      }
+
+      h1 { color: #A6EEFF}
+      h2 { color: #A6EEFF}
+      h3 { color: #FFF7A6}
+      li { color: #A6EEFF}
+      a:link { color: #FFF7A6}
+      a:visited {color: #FFF7A6}
+      a:hover {color: #AB909A}
+      a:active { color: #6E7D80}
