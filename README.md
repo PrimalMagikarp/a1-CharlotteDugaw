@@ -85,13 +85,14 @@ Note that if you want to load resources besides your index.html file (images, an
 Sample Readme (delete the above when you're ready to submit, and modify the text below with your links and descriptions)
 ---
 
-Charlie Roberts
+Charlotte Dugaw 
 http://a1-charlieroberts.onrender.com
 
-This project shows ...
+This project shows a simple website, written in HTML and formatted with CSS. 
 
 ## Technical Achievements
-- **Styled page with CSS**: Added rules for the p, li, and a selectors...
+- **Styled page with CSS**: added rules for the p, h1-3, links (base + visited + default + active), li, and an animated class (pride).
+- **Experimented with other HTML tags**: added links (the <a> tag).
 
 ## Design Achievements
 - **Used a color palette**: generated a color palette using the Triad setting on the given link. an image of the color palette is included as palette.png.

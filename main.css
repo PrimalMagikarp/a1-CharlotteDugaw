@@ -1,5 +1,5 @@
 
-      body { background-color:#000000 }
+      body { background-color:black}
       p { color:#FFA5C6}
       p.pride { animation: prideshift 5s infinite;}
       @keyframes prideshift {
