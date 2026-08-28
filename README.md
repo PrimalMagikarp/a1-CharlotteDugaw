@@ -91,7 +91,7 @@ http://a1-charlieroberts.onrender.com
 This project shows a simple website, written in HTML and formatted with CSS. 
 
 ## Technical Achievements
-- **Styled page with CSS**: added rules for the p, h1-3, links (base + visited + default + active), li, and an animated class (pride).
+- **Styled page with CSS**: added color rules for the p, h1-3, links (base + visited + default + active), li, and an animated class (pride).
 - **Experimented with other HTML tags**: added links (the <a> tag).
 
 ## Design Achievements
